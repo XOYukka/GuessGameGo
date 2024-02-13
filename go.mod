@@ -1,0 +1,3 @@
+module GuessGame
+
+go 1.21.6
